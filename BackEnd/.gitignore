@@ -34,6 +34,7 @@ build/
 
 ### Private ###
 **/src/main/resources/application.properties
+**/src/main/resources/
 compose.yaml
 
 ### Logs ###
